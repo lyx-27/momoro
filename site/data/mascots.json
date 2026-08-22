@@ -1,0 +1,994 @@
+[
+ {
+  "id": "doge",
+  "name": "Doge",
+  "category": "dogs",
+  "accent": "#6E8BF8",
+  "full": "images/doge.png",
+  "thumb": "images/thumbs/doge.webp"
+ },
+ {
+  "id": "grumpy-cat",
+  "name": "Grumpy Cat",
+  "category": "cats",
+  "accent": "#6CDCDC",
+  "full": "images/grumpy-cat.png",
+  "thumb": "images/thumbs/grumpy-cat.webp"
+ },
+ {
+  "id": "happy-pink-axolotl-open",
+  "name": "Happy Pink Axolotl Open",
+  "category": "sea",
+  "accent": "#96E6CD",
+  "full": "images/happy-pink-axolotl-open.png",
+  "thumb": "images/thumbs/happy-pink-axolotl-open.webp"
+ },
+ {
+  "id": "pug-tongue-sticking-blep",
+  "name": "Pug Tongue Sticking Blep",
+  "category": "dogs",
+  "accent": "#BD8FDC",
+  "full": "images/pug-tongue-sticking-blep.png",
+  "thumb": "images/thumbs/pug-tongue-sticking-blep.webp"
+ },
+ {
+  "id": "excited-amazed-red-panda",
+  "name": "Excited Amazed Red Panda",
+  "category": "wild",
+  "accent": "#7555AB",
+  "full": "images/excited-amazed-red-panda.png",
+  "thumb": "images/thumbs/excited-amazed-red-panda.webp"
+ },
+ {
+  "id": "extremely-sleepy-dopey-sloth",
+  "name": "Extremely Sleepy Dopey Sloth",
+  "category": "wild",
+  "accent": "#CBA6F3",
+  "full": "images/extremely-sleepy-dopey-sloth.png",
+  "thumb": "images/thumbs/extremely-sleepy-dopey-sloth.webp"
+ },
+ {
+  "id": "panicking-screaming-penguin-wide",
+  "name": "Panicking Screaming Penguin Wide",
+  "category": "sea",
+  "accent": "#FDAA13",
+  "full": "images/panicking-screaming-penguin-wide.png",
+  "thumb": "images/thumbs/panicking-screaming-penguin-wide.webp"
+ },
+ {
+  "id": "sad-teary-hamster-verge",
+  "name": "Sad Teary Hamster Verge",
+  "category": "critters",
+  "accent": "#017FB0",
+  "full": "images/sad-teary-hamster-verge.png",
+  "thumb": "images/thumbs/sad-teary-hamster-verge.webp"
+ },
+ {
+  "id": "scheming-mischievous-raccoon-sly",
+  "name": "Scheming Mischievous Raccoon Sly",
+  "category": "wild",
+  "accent": "#FDAF1B",
+  "full": "images/scheming-mischievous-raccoon-sly.png",
+  "thumb": "images/thumbs/scheming-mischievous-raccoon-sly.webp"
+ },
+ {
+  "id": "shocked-cat-round-wide",
+  "name": "Shocked Cat Round Wide",
+  "category": "cats",
+  "accent": "#7A61B2",
+  "full": "images/shocked-cat-round-wide.png",
+  "thumb": "images/thumbs/shocked-cat-round-wide.webp"
+ },
+ {
+  "id": "smug-self-satisfied-frog",
+  "name": "Smug Self Satisfied Frog",
+  "category": "wild",
+  "accent": "#F85C4C",
+  "full": "images/smug-self-satisfied-frog.png",
+  "thumb": "images/thumbs/smug-self-satisfied-frog.webp"
+ },
+ {
+  "id": "utterly-calm-unbothered-capybara",
+  "name": "Utterly Calm Unbothered Capybara",
+  "category": "wild",
+  "accent": "#8CD5C3",
+  "full": "images/utterly-calm-unbothered-capybara.png",
+  "thumb": "images/thumbs/utterly-calm-unbothered-capybara.webp"
+ },
+ {
+  "id": "blissfully-content-pig-happy",
+  "name": "Blissfully Content Pig Happy",
+  "category": "wild",
+  "accent": "#8FD1B8",
+  "full": "images/blissfully-content-pig-happy.png",
+  "thumb": "images/thumbs/blissfully-content-pig-happy.webp"
+ },
+ {
+  "id": "cocky-smug-shark-confident",
+  "name": "Cocky Smug Shark Confident",
+  "category": "sea",
+  "accent": "#99A87C",
+  "full": "images/cocky-smug-shark-confident.png",
+  "thumb": "images/thumbs/cocky-smug-shark-confident.webp"
+ },
+ {
+  "id": "seal-doing-blep-tongue",
+  "name": "Seal Doing Blep Tongue",
+  "category": "sea",
+  "accent": "#FDE14A",
+  "full": "images/seal-doing-blep-tongue.png",
+  "thumb": "images/thumbs/seal-doing-blep-tongue.webp"
+ },
+ {
+  "id": "dramatically-sobbing-panda-teary",
+  "name": "Dramatically Sobbing Panda Teary",
+  "category": "wild",
+  "accent": "#EECFA3",
+  "full": "images/dramatically-sobbing-panda-teary.png",
+  "thumb": "images/thumbs/dramatically-sobbing-panda-teary.webp"
+ },
+ {
+  "id": "excited-screaming-otter-wide",
+  "name": "Excited Screaming Otter Wide",
+  "category": "sea",
+  "accent": "#7DB6EB",
+  "full": "images/excited-screaming-otter-wide.png",
+  "thumb": "images/thumbs/excited-screaming-otter-wide.webp"
+ },
+ {
+  "id": "feisty-cheeky-baby-pygmy",
+  "name": "Feisty Cheeky Baby Pygmy",
+  "category": "wild",
+  "accent": "#FCA677",
+  "full": "images/feisty-cheeky-baby-pygmy.png",
+  "thumb": "images/thumbs/feisty-cheeky-baby-pygmy.webp"
+ },
+ {
+  "id": "furious-hissing-goose-wide",
+  "name": "Furious Hissing Goose Wide",
+  "category": "birds",
+  "accent": "#A5557D",
+  "full": "images/furious-hissing-goose-wide.png",
+  "thumb": "images/thumbs/furious-hissing-goose-wide.webp"
+ },
+ {
+  "id": "nervous-bunny-frozen-wide",
+  "name": "Nervous Bunny Frozen Wide",
+  "category": "wild",
+  "accent": "#F1D8CD",
+  "full": "images/nervous-bunny-frozen-wide.png",
+  "thumb": "images/thumbs/nervous-bunny-frozen-wide.webp"
+ },
+ {
+  "id": "over-confident-swaggering-crocodile",
+  "name": "Over Confident Swaggering Crocodile",
+  "category": "wild",
+  "accent": "#6B7AF7",
+  "full": "images/over-confident-swaggering-crocodile.png",
+  "thumb": "images/thumbs/over-confident-swaggering-crocodile.webp"
+ },
+ {
+  "id": "overjoyed-corgi-huge-happy",
+  "name": "Overjoyed Corgi Huge Happy",
+  "category": "dogs",
+  "accent": "#62D6D7",
+  "full": "images/overjoyed-corgi-huge-happy.png",
+  "thumb": "images/thumbs/overjoyed-corgi-huge-happy.webp"
+ },
+ {
+  "id": "serious-deadpan-gorilla-giving",
+  "name": "Serious Deadpan Gorilla Giving",
+  "category": "wild",
+  "accent": "#718B70",
+  "full": "images/serious-deadpan-gorilla-giving.png",
+  "thumb": "images/thumbs/serious-deadpan-gorilla-giving.webp"
+ },
+ {
+  "id": "shy-blushing-hedgehog-bashful",
+  "name": "Shy Blushing Hedgehog Bashful",
+  "category": "critters",
+  "accent": "#485F87",
+  "full": "images/shy-blushing-hedgehog-bashful.png",
+  "thumb": "images/thumbs/shy-blushing-hedgehog-bashful.webp"
+ },
+ {
+  "id": "sly-scheming-fox-narrow",
+  "name": "Sly Scheming Fox Narrow",
+  "category": "wild",
+  "accent": "#CFA1F3",
+  "full": "images/sly-scheming-fox-narrow.png",
+  "thumb": "images/thumbs/sly-scheming-fox-narrow.webp"
+ },
+ {
+  "id": "startled-owl-huge-round",
+  "name": "Startled Owl Huge Round",
+  "category": "birds",
+  "accent": "#785EA8",
+  "full": "images/startled-owl-huge-round.png",
+  "thumb": "images/thumbs/startled-owl-huge-round.webp"
+ },
+ {
+  "id": "super-sleepy-clingy-koala",
+  "name": "Super Sleepy Clingy Koala",
+  "category": "wild",
+  "accent": "#FD5B5E",
+  "full": "images/super-sleepy-clingy-koala.png",
+  "thumb": "images/thumbs/super-sleepy-clingy-koala.webp"
+ },
+ {
+  "id": "teary-eyed-baby-monkey",
+  "name": "Teary Eyed Baby Monkey",
+  "category": "wild",
+  "accent": "#9AE6CC",
+  "full": "images/teary-eyed-baby-monkey.png",
+  "thumb": "images/thumbs/teary-eyed-baby-monkey.webp"
+ },
+ {
+  "id": "happiest-quokka-beaming-selfie",
+  "name": "Happiest Quokka Beaming Selfie",
+  "category": "wild",
+  "accent": "#BC7CD4",
+  "full": "images/happiest-quokka-beaming-selfie.png",
+  "thumb": "images/thumbs/happiest-quokka-beaming-selfie.webp"
+ },
+ {
+  "id": "furious-baby-chick-scream",
+  "name": "Furious Baby Chick Scream",
+  "category": "birds",
+  "accent": "#D85172",
+  "full": "images/furious-baby-chick-scream.png",
+  "thumb": "images/thumbs/furious-baby-chick-scream.webp"
+ },
+ {
+  "id": "unimpressed-duck-flat-skeptical",
+  "name": "Unimpressed Duck Flat Skeptical",
+  "category": "birds",
+  "accent": "#007CAE",
+  "full": "images/unimpressed-duck-flat-skeptical.png",
+  "thumb": "images/thumbs/unimpressed-duck-flat-skeptical.webp"
+ },
+ {
+  "id": "utterly-done-unimpressed-snake",
+  "name": "Utterly Done Unimpressed Snake",
+  "category": "wild",
+  "accent": "#E75B7A",
+  "full": "images/utterly-done-unimpressed-snake.png",
+  "thumb": "images/thumbs/utterly-done-unimpressed-snake.webp"
+ },
+ {
+  "id": "nervous-mouse-worried-eyes",
+  "name": "Nervous Mouse Worried Eyes",
+  "category": "critters",
+  "accent": "#6E85EC",
+  "full": "images/nervous-mouse-worried-eyes.png",
+  "thumb": "images/thumbs/nervous-mouse-worried-eyes.webp"
+ },
+ {
+  "id": "alert-lookout-meerkat-paw",
+  "name": "Alert Lookout Meerkat Paw",
+  "category": "critters",
+  "accent": "#64AFEB",
+  "full": "images/alert-lookout-meerkat-paw.png",
+  "thumb": "images/thumbs/alert-lookout-meerkat-paw.webp"
+ },
+ {
+  "id": "amazed-toucan-going-wow",
+  "name": "Amazed Toucan Going Wow",
+  "category": "birds",
+  "accent": "#FC9B6B",
+  "full": "images/amazed-toucan-going-wow.png",
+  "thumb": "images/thumbs/amazed-toucan-going-wow.webp"
+ },
+ {
+  "id": "bashful-shy-sheep-peeking",
+  "name": "Bashful Shy Sheep Peeking",
+  "category": "wild",
+  "accent": "#BB7ECC",
+  "full": "images/bashful-shy-sheep-peeking.png",
+  "thumb": "images/thumbs/bashful-shy-sheep-peeking.webp"
+ },
+ {
+  "id": "blissfully-smiling-samoyed-smiling",
+  "name": "Blissfully Smiling Samoyed (Smiling",
+  "category": "dogs",
+  "accent": "#B88DE6",
+  "full": "images/blissfully-smiling-samoyed-smiling.png",
+  "thumb": "images/thumbs/blissfully-smiling-samoyed-smiling.webp"
+ },
+ {
+  "id": "buck-toothed-beaver-giving",
+  "name": "Buck Toothed Beaver Giving",
+  "category": "critters",
+  "accent": "#B39AE9",
+  "full": "images/buck-toothed-beaver-giving.png",
+  "thumb": "images/thumbs/buck-toothed-beaver-giving.webp"
+ },
+ {
+  "id": "chatty-excited-parrot-wing",
+  "name": "Chatty Excited Parrot Wing",
+  "category": "birds",
+  "accent": "#A84D71",
+  "full": "images/chatty-excited-parrot-wing.png",
+  "thumb": "images/thumbs/chatty-excited-parrot-wing.webp"
+ },
+ {
+  "id": "cheeky-grinning-dolphin-flipper",
+  "name": "Cheeky Grinning Dolphin Flipper",
+  "category": "sea",
+  "accent": "#FEE24C",
+  "full": "images/cheeky-grinning-dolphin-flipper.png",
+  "thumb": "images/thumbs/cheeky-grinning-dolphin-flipper.webp"
+ },
+ {
+  "id": "cheeky-gecko-sticky-paw",
+  "name": "Cheeky Gecko Sticky Paw",
+  "category": "wild",
+  "accent": "#FC5860",
+  "full": "images/cheeky-gecko-sticky-paw.png",
+  "thumb": "images/thumbs/cheeky-gecko-sticky-paw.webp"
+ },
+ {
+  "id": "chill-relaxed-polar-bear",
+  "name": "Chill Relaxed Polar Bear",
+  "category": "wild",
+  "accent": "#56623E",
+  "full": "images/chill-relaxed-polar-bear.png",
+  "thumb": "images/thumbs/chill-relaxed-polar-bear.webp"
+ },
+ {
+  "id": "chipmunk-hugely-stuffed-cheeks",
+  "name": "Chipmunk Hugely Stuffed Cheeks",
+  "category": "critters",
+  "accent": "#9FE0CE",
+  "full": "images/chipmunk-hugely-stuffed-cheeks.png",
+  "thumb": "images/thumbs/chipmunk-hugely-stuffed-cheeks.webp"
+ },
+ {
+  "id": "confident-unbothered-skunk-paw",
+  "name": "Confident Unbothered Skunk Paw",
+  "category": "critters",
+  "accent": "#FDA067",
+  "full": "images/confident-unbothered-skunk-paw.png",
+  "thumb": "images/thumbs/confident-unbothered-skunk-paw.webp"
+ },
+ {
+  "id": "confused-chameleon-independent-googly",
+  "name": "Confused Chameleon Independent Googly",
+  "category": "wild",
+  "accent": "#FC6C5C",
+  "full": "images/confused-chameleon-independent-googly.png",
+  "thumb": "images/thumbs/confused-chameleon-independent-googly.webp"
+ },
+ {
+  "id": "confused-platypus-what-am",
+  "name": "Confused Platypus (What Am",
+  "category": "wild",
+  "accent": "#91CFB6",
+  "full": "images/confused-platypus-what-am.png",
+  "thumb": "images/thumbs/confused-platypus-what-am.webp"
+ },
+ {
+  "id": "deadpan-long-faced-horse",
+  "name": "Deadpan Long Faced Horse",
+  "category": "wild",
+  "accent": "#0178A8",
+  "full": "images/deadpan-long-faced-horse.png",
+  "thumb": "images/thumbs/deadpan-long-faced-horse.webp"
+ },
+ {
+  "id": "cow-tongue-lolling-head",
+  "name": "Cow Tongue Lolling Head",
+  "category": "wild",
+  "accent": "#7E93F8",
+  "full": "images/cow-tongue-lolling-head.png",
+  "thumb": "images/thumbs/cow-tongue-lolling-head.webp"
+ },
+ {
+  "id": "dramatic-husky-over-top",
+  "name": "Dramatic Husky Over Top",
+  "category": "dogs",
+  "accent": "#FC5656",
+  "full": "images/dramatic-husky-over-top.png",
+  "thumb": "images/thumbs/dramatic-husky-over-top.webp"
+ },
+ {
+  "id": "excited-squeaking-guinea-pig",
+  "name": "Excited Squeaking Guinea Pig",
+  "category": "critters",
+  "accent": "#6D82F9",
+  "full": "images/excited-squeaking-guinea-pig.png",
+  "thumb": "images/thumbs/excited-squeaking-guinea-pig.webp"
+ },
+ {
+  "id": "fabulously-sassy-flamingo-chin",
+  "name": "Fabulously Sassy Flamingo Chin",
+  "category": "birds",
+  "accent": "#6D8970",
+  "full": "images/fabulously-sassy-flamingo-chin.png",
+  "thumb": "images/thumbs/fabulously-sassy-flamingo-chin.webp"
+ },
+ {
+  "id": "flailing-panicking-octopus-many",
+  "name": "Flailing Panicking Octopus Many",
+  "category": "sea",
+  "accent": "#7BA1A2",
+  "full": "images/flailing-panicking-octopus-many.png",
+  "thumb": "images/thumbs/flailing-panicking-octopus-many.webp"
+ },
+ {
+  "id": "moose-tongue-head-tilted",
+  "name": "Moose Tongue Head Tilted",
+  "category": "wild",
+  "accent": "#92D1BA",
+  "full": "images/moose-tongue-head-tilted.png",
+  "thumb": "images/thumbs/moose-tongue-head-tilted.webp"
+ },
+ {
+  "id": "grumpy-warty-toad-arms",
+  "name": "Grumpy Warty Toad Arms",
+  "category": "cats",
+  "accent": "#377781",
+  "full": "images/grumpy-warty-toad-arms.png",
+  "thumb": "images/thumbs/grumpy-warty-toad-arms.webp"
+ },
+ {
+  "id": "hugely-shocked-lemur-saucer",
+  "name": "Hugely Shocked Lemur Saucer",
+  "category": "birds",
+  "accent": "#FB5D4A",
+  "full": "images/hugely-shocked-lemur-saucer.png",
+  "thumb": "images/thumbs/hugely-shocked-lemur-saucer.webp"
+ },
+ {
+  "id": "hyper-wide-eyed-caffeinated",
+  "name": "Hyper Wide Eyed Caffeinated",
+  "category": "critters",
+  "accent": "#60DBD5",
+  "full": "images/hyper-wide-eyed-caffeinated.png",
+  "thumb": "images/thumbs/hyper-wide-eyed-caffeinated.webp"
+ },
+ {
+  "id": "mischievous-grinning-goat-pointing",
+  "name": "Mischievous Grinning Goat Pointing",
+  "category": "wild",
+  "accent": "#88CDBA",
+  "full": "images/mischievous-grinning-goat-pointing.png",
+  "thumb": "images/thumbs/mischievous-grinning-goat-pointing.webp"
+ },
+ {
+  "id": "mock-fierce-tiger-doing",
+  "name": "Mock Fierce Tiger Doing",
+  "category": "cats",
+  "accent": "#BF8FDA",
+  "full": "images/mock-fierce-tiger-doing.png",
+  "thumb": "images/thumbs/mock-fierce-tiger-doing.webp"
+ },
+ {
+  "id": "moody-lone-wolf-side",
+  "name": "Moody Lone Wolf Side",
+  "category": "wild",
+  "accent": "#FCAD1E",
+  "full": "images/moody-lone-wolf-side.png",
+  "thumb": "images/thumbs/moody-lone-wolf-side.webp"
+ },
+ {
+  "id": "narwhal-proud-horn-pointing",
+  "name": "Narwhal Proud Horn Pointing",
+  "category": "sea",
+  "accent": "#DE4766",
+  "full": "images/narwhal-proud-horn-pointing.png",
+  "thumb": "images/thumbs/narwhal-proud-horn-pointing.webp"
+ },
+ {
+  "id": "overjoyed-golden-retriever-paws",
+  "name": "Overjoyed Golden Retriever Paws",
+  "category": "dogs",
+  "accent": "#8FD0B3",
+  "full": "images/overjoyed-golden-retriever-paws.png",
+  "thumb": "images/thumbs/overjoyed-golden-retriever-paws.webp"
+ },
+ {
+  "id": "pinchy-angry-crab-claws",
+  "name": "Pinchy Angry Crab Claws",
+  "category": "sea",
+  "accent": "#2BB9AD",
+  "full": "images/pinchy-angry-crab-claws.png",
+  "thumb": "images/thumbs/pinchy-angry-crab-claws.webp"
+ },
+ {
+  "id": "playful-kangaroo-boxing-pose",
+  "name": "Playful Kangaroo Boxing Pose",
+  "category": "wild",
+  "accent": "#D7EFF3",
+  "full": "images/playful-kangaroo-boxing-pose.png",
+  "thumb": "images/thumbs/playful-kangaroo-boxing-pose.webp"
+ },
+ {
+  "id": "proud-majestic-lion-paw",
+  "name": "Proud Majestic Lion Paw",
+  "category": "cats",
+  "accent": "#8DC9B4",
+  "full": "images/proud-majestic-lion-paw.png",
+  "thumb": "images/thumbs/proud-majestic-lion-paw.webp"
+ },
+ {
+  "id": "puffed-indignant-pufferfish-cheeks",
+  "name": "Puffed Indignant Pufferfish Cheeks",
+  "category": "sea",
+  "accent": "#CE9EF4",
+  "full": "images/puffed-indignant-pufferfish-cheeks.png",
+  "thumb": "images/thumbs/puffed-indignant-pufferfish-cheeks.webp"
+ },
+ {
+  "id": "serene-calm-whale-content",
+  "name": "Serene Calm Whale Content",
+  "category": "sea",
+  "accent": "#CE6241",
+  "full": "images/serene-calm-whale-content.png",
+  "thumb": "images/thumbs/serene-calm-whale-content.webp"
+ },
+ {
+  "id": "shy-elephant-curling-trunk",
+  "name": "Shy Elephant Curling Trunk",
+  "category": "wild",
+  "accent": "#FEAF80",
+  "full": "images/shy-elephant-curling-trunk.png",
+  "thumb": "images/thumbs/shy-elephant-curling-trunk.webp"
+ },
+ {
+  "id": "shy-pangolin-half-curled",
+  "name": "Shy Pangolin Half Curled",
+  "category": "wild",
+  "accent": "#95D1B6",
+  "full": "images/shy-pangolin-half-curled.png",
+  "thumb": "images/thumbs/shy-pangolin-half-curled.webp"
+ },
+ {
+  "id": "shy-retreating-turtle-peeking",
+  "name": "Shy Retreating Turtle Peeking",
+  "category": "sea",
+  "accent": "#81B6EA",
+  "full": "images/shy-retreating-turtle-peeking.png",
+  "thumb": "images/thumbs/shy-retreating-turtle-peeking.webp"
+ },
+ {
+  "id": "sleepy-slow-snail-resting",
+  "name": "Sleepy Slow Snail Resting",
+  "category": "critters",
+  "accent": "#6A8DE7",
+  "full": "images/sleepy-slow-snail-resting.png",
+  "thumb": "images/thumbs/sleepy-slow-snail-resting.webp"
+ },
+ {
+  "id": "smug-dachshund-knowing-side",
+  "name": "Smug Dachshund Knowing Side",
+  "category": "dogs",
+  "accent": "#25B6BB",
+  "full": "images/smug-dachshund-knowing-side.png",
+  "thumb": "images/thumbs/smug-dachshund-knowing-side.webp"
+ },
+ {
+  "id": "sneaky-scheming-ferret-side",
+  "name": "Sneaky Scheming Ferret Side",
+  "category": "critters",
+  "accent": "#5EB9F7",
+  "full": "images/sneaky-scheming-ferret-side.png",
+  "thumb": "images/thumbs/sneaky-scheming-ferret-side.webp"
+ },
+ {
+  "id": "soft-smug-chinchilla-squished",
+  "name": "Soft Smug Chinchilla Squished",
+  "category": "critters",
+  "accent": "#EACD9F",
+  "full": "images/soft-smug-chinchilla-squished.png",
+  "thumb": "images/thumbs/soft-smug-chinchilla-squished.webp"
+ },
+ {
+  "id": "furious-chihuahua-yelling-cupping",
+  "name": "Furious Chihuahua Yelling Cupping",
+  "category": "dogs",
+  "accent": "#4E6088",
+  "full": "images/furious-chihuahua-yelling-cupping.png",
+  "thumb": "images/thumbs/furious-chihuahua-yelling-cupping.webp"
+ },
+ {
+  "id": "unbothered-smug-alpaca-eyebrow",
+  "name": "Unbothered Smug Alpaca Eyebrow",
+  "category": "wild",
+  "accent": "#8ECFFB",
+  "full": "images/unbothered-smug-alpaca-eyebrow.png",
+  "thumb": "images/thumbs/unbothered-smug-alpaca-eyebrow.webp"
+ },
+ {
+  "id": "upside-down-bat-peeking",
+  "name": "Upside Down Bat Peeking",
+  "category": "critters",
+  "accent": "#A1AE80",
+  "full": "images/upside-down-bat-peeking.png",
+  "thumb": "images/thumbs/upside-down-bat-peeking.webp"
+ },
+ {
+  "id": "vain-smug-peacock-side",
+  "name": "Vain Smug Peacock Side",
+  "category": "birds",
+  "accent": "#E26077",
+  "full": "images/vain-smug-peacock-side.png",
+  "thumb": "images/thumbs/vain-smug-peacock-side.webp"
+ },
+ {
+  "id": "warm-happy-brown-bear",
+  "name": "Warm Happy Brown Bear",
+  "category": "wild",
+  "accent": "#7C61B0",
+  "full": "images/warm-happy-brown-bear.png",
+  "thumb": "images/thumbs/warm-happy-brown-bear.webp"
+ },
+ {
+  "id": "wide-eyed-startled-deer",
+  "name": "Wide Eyed Startled Deer",
+  "category": "wild",
+  "accent": "#86D8CC",
+  "full": "images/wide-eyed-startled-deer.png",
+  "thumb": "images/thumbs/wide-eyed-startled-deer.webp"
+ },
+ {
+  "id": "alert-kingfisher-poised-sharp",
+  "name": "Alert Kingfisher Poised Sharp",
+  "category": "birds",
+  "accent": "#9DA981",
+  "full": "images/alert-kingfisher-poised-sharp.png",
+  "thumb": "images/thumbs/alert-kingfisher-poised-sharp.webp"
+ },
+ {
+  "id": "alert-lynx-ears-perked",
+  "name": "Alert Lynx Ears Perked",
+  "category": "cats",
+  "accent": "#8AD9C4",
+  "full": "images/alert-lynx-ears-perked.png",
+  "thumb": "images/thumbs/alert-lynx-ears-perked.webp"
+ },
+ {
+  "id": "busy-happy-bee-wings",
+  "name": "Busy Happy Bee Wings",
+  "category": "critters",
+  "accent": "#93CEB4",
+  "full": "images/busy-happy-bee-wings.png",
+  "thumb": "images/thumbs/busy-happy-bee-wings.webp"
+ },
+ {
+  "id": "cackling-hyena-laugh-head",
+  "name": "Cackling Hyena Laugh Head",
+  "category": "birds",
+  "accent": "#5ADBD9",
+  "full": "images/cackling-hyena-laugh-head.png",
+  "thumb": "images/thumbs/cackling-hyena-laugh-head.webp"
+ },
+ {
+  "id": "cheeky-chimp-winking-tongue",
+  "name": "Cheeky Chimp Winking Tongue",
+  "category": "wild",
+  "accent": "#017FAF",
+  "full": "images/cheeky-chimp-winking-tongue.png",
+  "thumb": "images/thumbs/cheeky-chimp-winking-tongue.webp"
+ },
+ {
+  "id": "cheery-robin-chirping-happily",
+  "name": "Cheery Robin Chirping Happily",
+  "category": "birds",
+  "accent": "#8EC9F5",
+  "full": "images/cheery-robin-chirping-happily.png",
+  "thumb": "images/thumbs/cheery-robin-chirping-happily.webp"
+ },
+ {
+  "id": "chill-iguana-relaxed-cool",
+  "name": "Chill Iguana Relaxed Cool",
+  "category": "wild",
+  "accent": "#83B9EA",
+  "full": "images/chill-iguana-relaxed-cool.png",
+  "thumb": "images/thumbs/chill-iguana-relaxed-cool.webp"
+ },
+ {
+  "id": "chill-sleepy-manatee-looking",
+  "name": "Chill Sleepy Manatee Looking",
+  "category": "sea",
+  "accent": "#FDDB48",
+  "full": "images/chill-sleepy-manatee-looking.png",
+  "thumb": "images/thumbs/chill-sleepy-manatee-looking.webp"
+ },
+ {
+  "id": "clever-crow-knowing-sideways",
+  "name": "Clever Crow Knowing Sideways",
+  "category": "birds",
+  "accent": "#FDAA17",
+  "full": "images/clever-crow-knowing-sideways.png",
+  "thumb": "images/thumbs/clever-crow-knowing-sideways.webp"
+ },
+ {
+  "id": "cool-bearded-dragon-confident",
+  "name": "Cool Bearded Dragon Confident",
+  "category": "wild",
+  "accent": "#2DB4B0",
+  "full": "images/cool-bearded-dragon-confident.png",
+  "thumb": "images/thumbs/cool-bearded-dragon-confident.webp"
+ },
+ {
+  "id": "cool-confident-orca-grin",
+  "name": "Cool Confident Orca Grin",
+  "category": "sea",
+  "accent": "#D05F41",
+  "full": "images/cool-confident-orca-grin.png",
+  "thumb": "images/thumbs/cool-confident-orca-grin.webp"
+ },
+ {
+  "id": "curious-emu-head-tilted",
+  "name": "Curious Emu Head Tilted",
+  "category": "birds",
+  "accent": "#7B9EA2",
+  "full": "images/curious-emu-head-tilted.png",
+  "thumb": "images/thumbs/curious-emu-head-tilted.webp"
+ },
+ {
+  "id": "curious-hammerhead-shark-tilting",
+  "name": "Curious Hammerhead Shark Tilting",
+  "category": "sea",
+  "accent": "#FCA771",
+  "full": "images/curious-hammerhead-shark-tilting.png",
+  "thumb": "images/thumbs/curious-hammerhead-shark-tilting.webp"
+ },
+ {
+  "id": "fuzzy-baby-duckling-giving",
+  "name": "Fuzzy Baby Duckling Giving",
+  "category": "birds",
+  "accent": "#93D4BC",
+  "full": "images/fuzzy-baby-duckling-giving.png",
+  "thumb": "images/thumbs/fuzzy-baby-duckling-giving.webp"
+ },
+ {
+  "id": "shy-ladybug-peeking-sweetly",
+  "name": "Shy Ladybug Peeking Sweetly",
+  "category": "critters",
+  "accent": "#718F73",
+  "full": "images/shy-ladybug-peeking-sweetly.png",
+  "thumb": "images/thumbs/shy-ladybug-peeking-sweetly.webp"
+ },
+ {
+  "id": "shy-puffin-bashful-smile",
+  "name": "Shy Puffin Bashful Smile",
+  "category": "birds",
+  "accent": "#FA5B58",
+  "full": "images/shy-puffin-bashful-smile.png",
+  "thumb": "images/thumbs/shy-puffin-bashful-smile.webp"
+ },
+ {
+  "id": "ostrich-wide-googly-eyes",
+  "name": "Ostrich Wide Googly Eyes",
+  "category": "birds",
+  "accent": "#62ACE9",
+  "full": "images/ostrich-wide-googly-eyes.png",
+  "thumb": "images/thumbs/ostrich-wide-googly-eyes.webp"
+ },
+ {
+  "id": "dramatic-cobra-hood-flared",
+  "name": "Dramatic Cobra Hood Flared",
+  "category": "wild",
+  "accent": "#B593E9",
+  "full": "images/dramatic-cobra-hood-flared.png",
+  "thumb": "images/thumbs/dramatic-cobra-hood-flared.webp"
+ },
+ {
+  "id": "dreamy-jellyfish-drifting-tentacles",
+  "name": "Dreamy Jellyfish Drifting Tentacles",
+  "category": "sea",
+  "accent": "#80D2C6",
+  "full": "images/dreamy-jellyfish-drifting-tentacles.png",
+  "thumb": "images/thumbs/dreamy-jellyfish-drifting-tentacles.webp"
+ },
+ {
+  "id": "excited-cheetah-leaning-forward",
+  "name": "Excited Cheetah Leaning Forward",
+  "category": "cats",
+  "accent": "#4F628B",
+  "full": "images/excited-cheetah-leaning-forward.png",
+  "thumb": "images/thumbs/excited-cheetah-leaning-forward.webp"
+ },
+ {
+  "id": "excited-gibbon-long-arms",
+  "name": "Excited Gibbon Long Arms",
+  "category": "wild",
+  "accent": "#C69BEF",
+  "full": "images/excited-gibbon-long-arms.png",
+  "thumb": "images/thumbs/excited-gibbon-long-arms.webp"
+ },
+ {
+  "id": "excited-macaw-wings-squawk",
+  "name": "Excited Macaw Wings Squawk",
+  "category": "birds",
+  "accent": "#6E8EF2",
+  "full": "images/excited-macaw-wings-squawk.png",
+  "thumb": "images/thumbs/excited-macaw-wings-squawk.webp"
+ },
+ {
+  "id": "fierce-eagle-sharp-determined",
+  "name": "Fierce Eagle Sharp Determined",
+  "category": "birds",
+  "accent": "#9AE6CE",
+  "full": "images/fierce-eagle-sharp-determined.png",
+  "thumb": "images/thumbs/fierce-eagle-sharp-determined.webp"
+ },
+ {
+  "id": "gentle-beluga-soft-smile",
+  "name": "Gentle Beluga Soft Smile",
+  "category": "sea",
+  "accent": "#9C5277",
+  "full": "images/gentle-beluga-soft-smile.png",
+  "thumb": "images/thumbs/gentle-beluga-soft-smile.webp"
+ },
+ {
+  "id": "glum-blobfish-deadpan-unimpressed",
+  "name": "Glum Blobfish Deadpan Unimpressed",
+  "category": "sea",
+  "accent": "#5D84E9",
+  "full": "images/glum-blobfish-deadpan-unimpressed.png",
+  "thumb": "images/thumbs/glum-blobfish-deadpan-unimpressed.webp"
+ },
+ {
+  "id": "pelican-pouch-dumb-happy",
+  "name": "Pelican Pouch Dumb Happy",
+  "category": "birds",
+  "accent": "#FDA071",
+  "full": "images/pelican-pouch-dumb-happy.png",
+  "thumb": "images/thumbs/pelican-pouch-dumb-happy.webp"
+ },
+ {
+  "id": "proud-warthog-chest-puffed",
+  "name": "Proud Warthog Chest Puffed",
+  "category": "wild",
+  "accent": "#7E65B6",
+  "full": "images/proud-warthog-chest-puffed.png",
+  "thumb": "images/thumbs/proud-warthog-chest-puffed.webp"
+ },
+ {
+  "id": "grumpy-rhino-sour-scowl",
+  "name": "Grumpy Rhino Sour Scowl",
+  "category": "cats",
+  "accent": "#92CFB8",
+  "full": "images/grumpy-rhino-sour-scowl.png",
+  "thumb": "images/thumbs/grumpy-rhino-sour-scowl.webp"
+ },
+ {
+  "id": "happy-sea-lion-clapping",
+  "name": "Happy Sea Lion Clapping",
+  "category": "cats",
+  "accent": "#EACB9E",
+  "full": "images/happy-sea-lion-clapping.png",
+  "thumb": "images/thumbs/happy-sea-lion-clapping.webp"
+ },
+ {
+  "id": "haughty-unimpressed-camel-chin",
+  "name": "Haughty Unimpressed Camel Chin",
+  "category": "wild",
+  "accent": "#65B6F7",
+  "full": "images/haughty-unimpressed-camel-chin.png",
+  "thumb": "images/thumbs/haughty-unimpressed-camel-chin.webp"
+ },
+ {
+  "id": "loud-rooster-crowing-beak",
+  "name": "Loud Rooster Crowing Beak",
+  "category": "birds",
+  "accent": "#6A886F",
+  "full": "images/loud-rooster-crowing-beak.png",
+  "thumb": "images/thumbs/loud-rooster-crowing-beak.webp"
+ },
+ {
+  "id": "playful-clownfish-peeking-cheerfully",
+  "name": "Playful Clownfish Peeking Cheerfully",
+  "category": "sea",
+  "accent": "#B892E7",
+  "full": "images/playful-clownfish-peeking-cheerfully.png",
+  "thumb": "images/thumbs/playful-clownfish-peeking-cheerfully.webp"
+ },
+ {
+  "id": "pondering-orangutan-resting-paw",
+  "name": "Pondering Orangutan Resting Paw",
+  "category": "wild",
+  "accent": "#6D8970",
+  "full": "images/pondering-orangutan-resting-paw.png",
+  "thumb": "images/thumbs/pondering-orangutan-resting-paw.webp"
+ },
+ {
+  "id": "proud-turkey-feathers-puffed",
+  "name": "Proud Turkey Feathers Puffed",
+  "category": "birds",
+  "accent": "#718B72",
+  "full": "images/proud-turkey-feathers-puffed.png",
+  "thumb": "images/thumbs/proud-turkey-feathers-puffed.webp"
+ },
+ {
+  "id": "serene-snow-leopard-gentle",
+  "name": "Serene Snow Leopard Gentle",
+  "category": "cats",
+  "accent": "#596442",
+  "full": "images/serene-snow-leopard-gentle.png",
+  "thumb": "images/thumbs/serene-snow-leopard-gentle.webp"
+ },
+ {
+  "id": "serene-stingray-gliding-wings",
+  "name": "Serene Stingray Gliding Wings",
+  "category": "sea",
+  "accent": "#FC585A",
+  "full": "images/serene-stingray-gliding-wings.png",
+  "thumb": "images/thumbs/serene-stingray-gliding-wings.webp"
+ },
+ {
+  "id": "shy-bashful-seahorse-curled",
+  "name": "Shy Bashful Seahorse Curled",
+  "category": "sea",
+  "accent": "#BA90D9",
+  "full": "images/shy-bashful-seahorse-curled.png",
+  "thumb": "images/thumbs/shy-bashful-seahorse-curled.webp"
+ },
+ {
+  "id": "anglerfish-toothy-grin-glow",
+  "name": "Anglerfish Toothy Grin Glow",
+  "category": "sea",
+  "accent": "#F75F4B",
+  "full": "images/anglerfish-toothy-grin-glow.png",
+  "thumb": "images/thumbs/anglerfish-toothy-grin-glow.webp"
+ },
+ {
+  "id": "sly-leopard-side-glancing",
+  "name": "Sly Leopard Side Glancing",
+  "category": "cats",
+  "accent": "#BF82D2",
+  "full": "images/sly-leopard-side-glancing.png",
+  "thumb": "images/thumbs/sly-leopard-side-glancing.webp"
+ },
+ {
+  "id": "smug-komodo-dragon-tongue",
+  "name": "Smug Komodo Dragon Tongue",
+  "category": "wild",
+  "accent": "#3B7C82",
+  "full": "images/smug-komodo-dragon-tongue.png",
+  "thumb": "images/thumbs/smug-komodo-dragon-tongue.webp"
+ },
+ {
+  "id": "smug-zebra-knowing-look",
+  "name": "Smug Zebra Knowing Look",
+  "category": "wild",
+  "accent": "#E85D74",
+  "full": "images/smug-zebra-knowing-look.png",
+  "thumb": "images/thumbs/smug-zebra-knowing-look.webp"
+ },
+ {
+  "id": "sneaky-eel-sly-grin",
+  "name": "Sneaky Eel Sly Grin",
+  "category": "sea",
+  "accent": "#D75165",
+  "full": "images/sneaky-eel-sly-grin.png",
+  "thumb": "images/thumbs/sneaky-eel-sly-grin.webp"
+ },
+ {
+  "id": "stoic-bison-steady-deadpan",
+  "name": "Stoic Bison Steady Deadpan",
+  "category": "wild",
+  "accent": "#778AF0",
+  "full": "images/stoic-bison-steady-deadpan.png",
+  "thumb": "images/thumbs/stoic-bison-steady-deadpan.webp"
+ },
+ {
+  "id": "surprised-cockatoo-crest-springing",
+  "name": "Surprised Cockatoo Crest Springing",
+  "category": "birds",
+  "accent": "#6B80F5",
+  "full": "images/surprised-cockatoo-crest-springing.png",
+  "thumb": "images/thumbs/surprised-cockatoo-crest-springing.webp"
+ },
+ {
+  "id": "wise-old-tortoise-giving",
+  "name": "Wise Old Tortoise Giving",
+  "category": "wild",
+  "accent": "#1CB7BB",
+  "full": "images/wise-old-tortoise-giving.png",
+  "thumb": "images/thumbs/wise-old-tortoise-giving.webp"
+ }
+]

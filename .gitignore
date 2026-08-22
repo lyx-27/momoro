@@ -1,0 +1,29 @@
+# --- secrets / local env ---
+.env
+.env.*
+!.env.example
+
+# --- local reference material (do NOT publish) ---
+refs/
+pull_*.py
+*_palettes.json
+*_palettes.html
+palettes.html
+
+# --- local dev tooling / batch runners (not part of the published skill) ---
+run_batch*.py
+build_gallery.py
+build_site.py
+
+# --- raw generation output batches (bloat) ---
+output/
+
+# --- promo project (kept local; rendered assets live in docs/) ---
+demo-remotion/
+
+# --- python / os ---
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
