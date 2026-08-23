@@ -2,6 +2,8 @@
 
 A skill for generating **extremely simple, cute, personified square mascot avatars** — one rounded chunky character, two character colors on one contrasting background, readable even at 32×32 — plus **Momoro**, a gallery of 124 ready-made clay-style meme-flavored mascots.
 
+**🔗 Live gallery: [lyx-27.github.io/momoro](https://lyx-27.github.io/momoro/)** — browse, roll a random one, and download.
+
 ![Momoro mascots](docs/momoro-poster.png)
 
 ![Mascot showcase](docs/mascot-reel.gif)
