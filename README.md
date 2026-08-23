@@ -56,3 +56,33 @@ Deploy anywhere static (GitHub Pages, Cloudflare Pages, Netlify, Vercel, or any 
 ## Notes
 
 The mascots are original, AI-generated characters in a consistent clay style. Names (e.g. "Doge", "Grumpy Cat") are **descriptive references to internet culture** for discoverability, not claims of ownership; the underlying meme characters may be subject to their own trademarks or copyrights. Use the generated art thoughtfully and check the rights of any specific character before commercial use.
+
+## Credits & license
+
+The mascot **skill** in this repo (`SKILL.md` and its art-direction rules) is adapted from **[s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)**, an open-source Agent Skill released under the MIT License. Huge thanks to the original author. The **Momoro gallery** (`site/`) and the generated mascot set are this project's own additions.
+
+In accordance with the MIT License, the original copyright and permission notice are retained:
+
+```
+MIT License
+
+Copyright (c) 2026 s1dashu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

@@ -92,3 +92,7 @@ Constraints: no text, no watermark, no borders, frames, cards, or presentation m
 - Do not inspect or report alpha, transparency, or background mode by default.
 - Do not block, rank, mark recommended/non-recommended, or auto-retry a result because of its background, colors, detail, composition, gradient, shading, or dimensionality.
 - Do not post-process a result to look more compliant. Generate a new independent candidate only when the user explicitly asks.
+
+---
+
+_Adapted from [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) (MIT License, Copyright (c) 2026 s1dashu). See the repository README for the full license notice._

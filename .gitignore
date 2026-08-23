@@ -3,6 +3,9 @@
 .env.*
 !.env.example
 
+# --- local marketing drafts (not for the public repo) ---
+PROMO.md
+
 # --- local reference material (do NOT publish) ---
 refs/
 pull_*.py
